@@ -17,8 +17,11 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 - Get the `hands_on_example.ipynb`
 - run `jupyter notebook`
 
+## Start the ML FLow Tracking Server
+ - mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host 0.0.0.0 --port 5000
 
-Project Screenshots
+
+## Project Screenshots
 
 ![Screenshot 2025-02-17 113247](https://github.com/user-attachments/assets/42023c42-f3a6-44c2-9974-6cc313b9ae56)
 
