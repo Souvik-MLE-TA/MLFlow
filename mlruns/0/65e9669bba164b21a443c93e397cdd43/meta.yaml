@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/souvik.ghosh/Desktop/pydataberlin-2019/mlruns/0/65e9669bba164b21a443c93e397cdd43/artifacts
+end_time: 1739771265332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65e9669bba164b21a443c93e397cdd43
+run_name: aged-hound-167
+run_uuid: 65e9669bba164b21a443c93e397cdd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739771248389
+status: 3
+tags: []
+user_id: souvik
